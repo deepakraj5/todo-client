@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.todo-input {
+    padding-bottom: 30px;
+    display: flex;
+}
+
+.todo-text {
+    font-weight: bold;
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.todo-icon-btn {
+    padding: 0 10px 0 10px;
+}
+
+.todo-icon-container {
+    display: flex;
+    float: right;
+    justify-content: right;
+    width: 100%;
+}
+
+.add-btn {
+    padding-left: 10px;
+}
